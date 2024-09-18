@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+    font-size: medium;
+    color: white;
+}
+div{
+    border: 2px solid rgb(65, 65, 65);
+    position: relative;
+    top: 250px;
+    background-color: black;
+    left: 500px;
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    padding-top: 10px;
+    font-weight: bold;
+
+}
+
+
